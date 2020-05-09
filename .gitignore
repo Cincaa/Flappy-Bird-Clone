@@ -1,11 +1,11 @@
-*/[Ll]ibrary/
-*/[Tt]emp/
-*/[Oo]bj/
-*/[Bb]uild/
-*/[Bb]uilds/
-*/[Ll]ogs/
-*/[Mm]emoryCaptures/
-*/.vs/
+*Library/
+*[Tt]emp/
+*[Oo]bj/
+*[Bb]uild/
+*[Bb]uilds/
+*[Ll]ogs/
+*[Mm]emoryCaptures/
+*.vs/
 *ExportedObj/
 .consulo/
 *.csproj
@@ -22,5 +22,12 @@
 *.mdb
 *.opendb
 *.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*/sysinfo.txt
+*.apk
+*.unitypackage
+crashlytics-build.properties
 
 !/[Aa]ssets/**/*.meta
