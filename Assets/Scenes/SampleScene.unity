@@ -288,6 +288,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+<<<<<<< HEAD
 --- !u!1 &361632202
 GameObject:
   m_ObjectHideFlags: 0
@@ -354,6 +355,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> 9553e17b2b6091ebb825ce982a899070ed9825cf
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
