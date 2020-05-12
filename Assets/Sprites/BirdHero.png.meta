@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e3bcea39924c41949b2a8dabc9f47b05
+guid: 237c67aa1d7e60b448d933a79214e1f9
 TextureImporter:
   fileIDToRecycleName:
     21300000: BirdHero_0
@@ -84,17 +84,6 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
   - serializedVersion: 2
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -123,7 +112,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7312f8e26febef14e85bbdaa89cce619
+      spriteID: 8f06991f7c8443d448610dbea64d11b3
       vertices: []
       indices: 
       edges: []
@@ -143,7 +132,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3edff273d8d710140912dc6358884c11
+      spriteID: 699f3da7537b12b45a29404103ccfef8
       vertices: []
       indices: 
       edges: []
@@ -163,7 +152,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 59c9a6f70e7174d4fbb212b5ab31ce1e
+      spriteID: c5f2ce2673b18d24d91f6b15a2a1cf7d
       vertices: []
       indices: 
       edges: []
@@ -171,7 +160,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 462bd5a9f6e040247b3870952b8c7d27
+    spriteID: 745a14352b4ad6c47972685764ebdbb5
     vertices: []
     indices: 
     edges: []

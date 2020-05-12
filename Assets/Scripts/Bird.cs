@@ -20,9 +20,9 @@ public class Bird : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (isDead == false)
+        if(isDead == false)
         {
-            if (Input.GetMouseButtonDown(0))
+            if(Input.GetMouseButtonDown (0))
             {
                 rb2d.velocity = Vector2.zero;
                 rb2d.AddForce(new Vector2(0, upForce));
@@ -37,9 +37,6 @@ public class Bird : MonoBehaviour
         rb2d.velocity = Vector2.zero;
         isDead = true;
         anim.SetTrigger("Die");
-<<<<<<< HEAD
-        GameControl.instance.BirdDied ();
-=======
->>>>>>> 9553e17b2b6091ebb825ce982a899070ed9825cf
+        GameControl.instance.BirdDied();
     }
 }
